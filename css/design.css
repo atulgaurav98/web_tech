@@ -1,0 +1,41 @@
+header{
+  background-color: #000000;
+}
+.headdata{
+  text-align: center;
+  color: #ffffff;
+}
+.div1{
+  margin-top: -22px;
+  position: relative;
+  text-align: center;
+  color: #000000;
+}
+.industryimage{
+
+  background-color: #ffad99;
+  height: auto;
+  width: 100%;
+  opacity: 50%;
+
+}
+.center{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.info{
+  margin-top: 130px;
+}
+h4{
+  margin-top: -20px;
+}
+.center1{
+}
+.div2{
+  background-color: #d1d1e0;
+}
+.div21data{
+  text-align: center;
+}
