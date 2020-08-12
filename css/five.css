@@ -1,0 +1,15 @@
+*{
+  font-family: "Times New Roman",Times,serif;
+}
+h5{
+  color: chocolate;
+}
+#idselec{
+  color: DarkMagenta;
+}
+.classselec{
+  color: DeepPink;
+}
+h1,p{
+  background-color: Gold;
+}

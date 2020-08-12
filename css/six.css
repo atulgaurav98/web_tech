@@ -1,0 +1,49 @@
+
+.logo>center>img{
+  background-color:
+  height: 50px;
+  width: 120px;
+  margin-top: 10px;
+}
+.logo>center>p{
+  font-size: 70px;
+  font-weight: bold;
+  margin-top: -30px;
+  color: #ffffff;
+}
+.logo{
+  background-color: #000000;
+}
+.main>img{
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  margin-top: -65px;
+  position: static;
+}
+.main{
+
+}
+.sameline1{
+  height: 250px;
+  width: 300px;
+  background-image: Y:\UI Tech\images\Thor.jpg;
+  float: left;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #000000;
+  overflow: scroll;
+  margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+/*#ec1d24
+#ffffff
+#000000*/
