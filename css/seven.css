@@ -1,6 +1,6 @@
 body{
-  background-image: linear-gradient(to left,green,skyblue,chocolate);
-  /*background-image: radial-gradient(green,skyblue,chocolate);*/
+  background-image: linear-gradient(to left,green,white,#FF9933);
+  /*background-image: radial-gradient(green,white,#FF9933);*/
   margin: 10px;
 }
 ul{
@@ -24,4 +24,20 @@ li>a:hover{
 }
 hr{
   margin-top: -18px;
+}
+.f1,.f2{
+  text-decoration: none;
+  color: black;
+  padding-left: 400px;
+
+}
+footer>a:hover{
+  color: white;
+}
+.f1{
+  text-align: left;
+}
+.f2{
+  position: relative;
+  right: 3px;
 }
