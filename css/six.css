@@ -24,8 +24,8 @@
 }*/
 body{
   background-size: cover;
-
-  background-color: #243687;
+  z-index: 0;
+  background-color: #ec1d24;
 }
 .main{
   position: relative;
@@ -34,7 +34,8 @@ body{
 .sameline1{
   height: 350px;
   width: 300px;
-
+  background-repeat: no-repeat;
+  background-size: cover;
   float: left;
   border-style: solid;
   border-radius: 10px;
@@ -43,32 +44,28 @@ body{
   box-shadow: 5px 5px #ffffff;
   margin-left: 22px;
   margin-bottom: 22px;
+  z-index: 1;
 }
 .sameline1>h2{
   text-align: center;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   font-family: verdana;
-  color: #ffffff;
+  color: #000000;
 }
 .sameline1>p{
-  color: #000000;
+  color: #686868;
   font-weight: bold;
 }
 footer>span{
   margin-left: 85px;
-
-
 }
-/*footer{
-  background-color: #ec1d24;
-}*/
 .ft{
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
 }
 .ft:hover{
-  color: #000000;
+  color: #243687;
 }
 
 
